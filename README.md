@@ -7,13 +7,13 @@ This project simulates the migration of the City of Vancouver's public data syst
 Objective:
 To design and implement a cloud-native data analytics pipeline that can:
 
-Ingested raw data securely
+Ingest raw data securely
 
-Applied automated data quality checks
+Apply automated data quality checks
 
-Separatedvalid and invalid data
+Separate valid and invalid data
 
-Monitored system performance and data flow
+Monitore system performance and data flow
 
 Visualize key metrics using dashboards
 
@@ -45,8 +45,8 @@ Configured AWS CloudWatch to track S3 bucket size and set alarms for thresholds
 Used AWS CloudTrail to audit account activity
 ![Image](https://github.com/user-attachments/assets/db91ef94-d439-4c02-a142-598a0a5f8a91)
 4.Dashboard Creation:
-
-
+Monitered Dashboard for real-time alerts
+![Image](https://github.com/user-attachments/assets/2e745b56-0e50-46b7-98c1-c236faf8cef3)
 
 
 Tools and Technologies:-
