@@ -26,7 +26,7 @@ Methodology:
 
 Used AWS KMS to encrypt the raw data bucket (issued-operating-permits-watersystems-vai)
 
-Enabled versioning for recovery and audit purposes
+Enabled versioning for recovery and audit purposes ![Image](https://github.com/user-attachments/assets/cbe63b8c-c9dd-462d-a822-50089c083574)
 
 2.ETL and Data Quality Checks: ![Image](https://github.com/user-attachments/assets/c23d4171-3084-4149-8200-9f7753f5ed40)
 
