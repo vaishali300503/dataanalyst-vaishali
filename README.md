@@ -43,12 +43,11 @@ Stored passed records in watersystm-cln-vai/Pass/ and failed ones in watersystm-
 Configured AWS CloudWatch to track S3 bucket size and set alarms for thresholds
 
 Used AWS CloudTrail to audit account activity
-
+![Image](https://github.com/user-attachments/assets/db91ef94-d439-4c02-a142-598a0a5f8a91)
 4.Dashboard Creation:
 
-Visualized processed data using Amazon QuickSight (or other dashboard tool if different)
 
-Displayed key metrics like volume of passed vs failed records, bucket growth, etc.
+
 
 Tools and Technologies:-
 
