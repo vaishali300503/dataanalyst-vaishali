@@ -28,7 +28,7 @@ Used AWS KMS to encrypt the raw data bucket (issued-operating-permits-watersyste
 
 Enabled versioning for recovery and audit purposes
 
-2.ETL and Data Quality Checks:
+2.ETL and Data Quality Checks: ![Image](https://github.com/user-attachments/assets/c23d4171-3084-4149-8200-9f7753f5ed40)
 
 Built a visual ETL job using AWS Glue 
 
