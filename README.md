@@ -30,7 +30,7 @@ Enabled versioning for recovery and audit purposes
 
 2.ETL and Data Quality Checks:
 
-Built a visual ETL job using AWS Glue
+Built a visual ETL job using AWS Glue 
 
 Created rules to validate incoming records
 
