@@ -35,6 +35,8 @@ Built a visual ETL job using AWS Glue
 Created rules to validate incoming records
 
 Stored passed records in watersystm-cln-vai/Pass/ and failed ones in watersystm-cln-vai/Fail/ ![Image](https://github.com/user-attachments/assets/20743f09-8bb1-4eeb-aa0e-4113463fbd80)
+![image](https://github.com/user-attachments/assets/544aefb4-700e-4e72-867c-2e253b7103bd)
+
 
 3.Monitoring and Alerts:
 
