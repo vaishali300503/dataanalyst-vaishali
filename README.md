@@ -5,17 +5,7 @@ Project Description:
 This project simulates the migration of the City of Vancouver's public data systems to a cloud-based analytics platform on AWS. The goal is to create a scalable, secure, and automated Data Analytics Platform (DAP) that enables data processing, quality checks, storage, monitoring, and visualization.
 
 Objective:
-To design and implement a cloud-native data analytics pipeline that can:
-
-Ingest raw data securely
-
-Apply automated data quality checks
-
-Separate valid and invalid data
-
-Monitore system performance and data flow
-
-Visualize key metrics using dashboards
+The core objective of this project was to implement an end-to-end data analytics pipeline using AWS. I aimed to securely ingest raw permit data, apply automated data quality checks using AWS Glue, and sort valid and invalid records for transparency. I also implemented real-time monitoring using CloudWatch and CloudTrail, along with a visual dashboard to display key data health metrics like pass/fail ratios and storage usage.
 
 Dataset:
 Issued Operating Permits for Water Systems – Sample dataset simulating real-world environmental permit data. The data was uploaded to an AWS S3 bucket as the raw input for the pipeline.
@@ -52,17 +42,11 @@ Monitered Dashboard for real-time alerts
 Tools and Technologies:-
 
 Cloud Provider: AWS
-
 Storage: Amazon S3
-
 ETL Tool: AWS Glue (Visual ETL Jobs)
-
 Security: AWS KMS
-
 Monitoring: AWS CloudWatch, AWS CloudTrail
-
 Visualization: AWS Glue
-
 Others: IAM for role and policy management
 
 Deliverables:
@@ -74,5 +58,8 @@ An automated ETL pipeline with data quality validation
 Organized S3 folders for pass/fail results
 
 Monitoring dashboard with real-time alerts
+
+Notes:
+This project was built as part of an academic assignment for BUSI 653 and reflects practical experience with AWS tools and cloud data management.
 
 
